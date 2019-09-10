@@ -15,4 +15,4 @@ add a new branch and try to meet merge conflict
 modify  a  new line 
 
 
-increasing oneline create crack
+increasing oneline merge master and dev
