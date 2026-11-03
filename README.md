@@ -1,5 +1,5 @@
 # hello-world
-just a repository
+Just a repository
 
 Hello everyone:
 
