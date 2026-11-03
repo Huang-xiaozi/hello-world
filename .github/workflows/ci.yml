@@ -10,4 +10,8 @@ jobs:
       - name: Verify README
         run: |
           echo "checking README..."
-          exit 1
+          if [ ! -s README.md ]; then
+            echo "README.md is missing or empty" >&2
+            exit 1
+          fi
+          head -n 1 README.md
