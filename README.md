@@ -1,7 +1,7 @@
 # hello-world
 Just a repository
 
-Hello everyone:
+Hello Everyone:
 
 Huang-xiaozi is here.I like programming and want to become a outstanding programmer.
 I'm dying to communicating with everyone. 
